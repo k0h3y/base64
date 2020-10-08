@@ -1,0 +1,9 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "en64": "./bin/encode-base64.js",
+    "de64": "./bin/decode-base64.js"
+  }
+}
